@@ -3,7 +3,6 @@
 - I Have experience in Programming, specially in Web backend development 
 - 🌱 I’m currently learning python in Data Science
 - 💞️ I’m looking to collaborate on a Project involving Data science and Machine Learning
-- 📫 How to reach me @Gabspy_x
 
 <!---
 gabicodder/gabicodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
