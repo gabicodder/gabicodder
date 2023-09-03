@@ -1,6 +1,7 @@
 - Hi 👋 I'm Gabriela
 - 👀 I’m interested in world of data, AI and Machine Learning
-- I Have experience in Programming, specially in Web backend development 
+- I Have experience in Programming, specially in Web backend development
+- I currently work as a data engineer
 - 🌱 I’m currently learning python in Data Science
 - 💞️ I’m looking to collaborate on a Project involving Data science and Machine Learning
 
